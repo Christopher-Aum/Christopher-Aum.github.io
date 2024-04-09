@@ -2983,3 +2983,14 @@ input, select, textarea {
 						}
 
 	}
+
+	#skill-img{
+		height: 100px;
+		width: 100px;
+	}
+	#skills{
+		display: flex;
+		justify-content: center;
+		gap: 10px;
+		/* background-color: black; */
+	}
